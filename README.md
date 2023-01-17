@@ -711,10 +711,10 @@ necesitas desplegar el backend con firebase-cli.
 
 Puedes desplegar el frontend con Firebase hosting.
 Hay otras opciones como Github Pages (que ya estan familiarizadas),
-Netlify, y Heroku.
+Netlify, Vercel, entre otras.
 
-Netlify y Heroku son servicios para desplegar tu web app - backend y
-frontend - y no son limitados a usar solamente con Firebase.
+Netlify es un servicio para desplegar tu web app - backend y
+frontend - y no esta limitado a usar solamente Firebase.
 Por ejemplo, puedes desplegar un app MySQL/Express/React.
 
 #### Build para production
@@ -817,13 +817,11 @@ tiene un directorio de otro nombre puedes usar la opción `--dir`.
 netlify deploy --dir=dist`
 ```
 
-#### Github pages
+#### GitHub Pages
 
-* [Github pages y Vue](https://cli.vuejs.org/guide/deployment.html#github-pages)
-* [Github pages y Angular](https://angular.io/guide/deployment#deploy-to-github-pages)
-* [Github pages y React](https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom)
-
-#### Heroku
+* [GitHub Pages y Vue](https://cli.vuejs.org/guide/deployment.html#github-pages)
+* [GitHub Pages y Angular](https://angular.io/guide/deployment#deploy-to-github-pages)
+* [GitHub Pages y React](https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom)
 
 ### :information_source: Nota para estudiantes que elijan React y `create-react-app`
 
